@@ -1,4 +1,4 @@
-# Turkman Linux notlarım: 
+# Turkman Linux notlar: 
 
 # 1- Kurulum sonrası işlemler:
 Turkman Linux kurulum sonrası terminali açalım ve aşağıdaki komutlarla depomuzu güncelleyelim: (root ile)
