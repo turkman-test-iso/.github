@@ -1,4 +1,20 @@
-# Turkman Linux notlar: 
+# Turkman Linux: 
+
+# Turkman Linux Enduser (Canlı ve kurulabilir) ISO kalıpları:
+
+# Turkman Linux Cinnamon Edition:
+https://github.com/turkman-test-iso/iso-cinnamon/releases/download/latest/turkman-cinnamon-enduser.iso
+
+# Turkman Linux Xfce Edition:
+https://github.com/turkman-test-iso/iso-xfce/releases/download/latest/turkman-xfce-enduser.iso
+
+# Turkman Linux KDE Edition:
+https://github.com/turkman-test-iso/iso-kde/releases/download/latest/turkman-kde-firmware.iso
+
+# Turkman Linux Lxde Edition:
+https://github.com/turkman-test-iso/iso-lxde/releases/download/latest/turkman-lxde-enduser.iso
+
+
 
 # 1- Kurulum sonrası işlemler:
 Turkman Linux kurulum sonrası terminali açalım ve aşağıdaki komutlarla depomuzu güncelleyelim: (root ile)
