@@ -15,7 +15,6 @@ https://github.com/turkman-test-iso/iso-kde/releases/download/latest/turkman-kde
 https://github.com/turkman-test-iso/iso-lxde/releases/download/latest/turkman-lxde-enduser.iso
 
 ---------------------------
----------------------------
 
 # 1- Kurulum sonrası işlemler:
 Turkman Linux kurulum sonrası terminali açalım ve aşağıdaki komutlarla depomuzu güncelleyelim: (root ile)
