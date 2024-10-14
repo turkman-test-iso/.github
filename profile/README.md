@@ -1,6 +1,6 @@
 # Turkman Linux: 
 
-# Turkman Linux Enduser (Canlı ve kurulabilir) ISO kalıpları:
+Turkman Linux Enduser (Canlı ve kurulabilir) ISO kalıpları:
 
 # Turkman Linux Cinnamon Edition:
 https://github.com/turkman-test-iso/iso-cinnamon/releases/download/latest/turkman-cinnamon-enduser.iso
